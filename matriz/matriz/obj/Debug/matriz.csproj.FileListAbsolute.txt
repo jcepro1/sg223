@@ -1,0 +1,46 @@
+C:\Users\daniy\Desktop\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\daniy\Desktop\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\daniy\Desktop\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\daniy\Desktop\matriz\matriz\obj\Debug\matriz.pdb
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\bin\Debug\matriz.exe.config
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\bin\Debug\matriz.exe
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\bin\Debug\matriz.pdb
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.Form1.resources
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.exe
+F:\Z DESCARGAS VARIOS 2 2022\PRO1 MOLLO\SIMULACRO MATRICES\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\2DO-main\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\PRO1 MOD\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO PARCIAL\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.csproj.AssemblyReference.cache
+C:\Users\01\Desktop\2DO PARCIAL\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.Form1.resources
+C:\Users\01\Desktop\2DO PARCIAL\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+C:\Users\01\Desktop\2DO PARCIAL\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.cache
+C:\Users\01\Desktop\2DO PARCIAL\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\2DO PARCIAL\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\01\Desktop\2DO PARCIAL\2DO PARCIAL\BASE MATRICES\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\01\Desktop\2DO PARCIAL\2DO PARCIAL\BASE MATRICES\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\01\Desktop\2DO PARCIAL\2DO PARCIAL\BASE MATRICES\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\01\Desktop\2DO PARCIAL\2DO PARCIAL\BASE MATRICES\matriz\matriz\bin\Debug\matriz.pdb
